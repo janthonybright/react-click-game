@@ -1,4 +1,4 @@
-# react-click-game
+# React-Click-Game
 
 This app is built with React and deployed onto Heroku.
 
